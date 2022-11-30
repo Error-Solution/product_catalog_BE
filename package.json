@@ -25,11 +25,14 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
+    "eslint": "^8.28.0",
     "express": "^4.18.2",
+    "husky": "^8.0.2",
     "mysql2": "^2.3.3",
     "netlify-cli": "^12.2.7",
     "netlify-lambda": "^2.0.15",
     "pg-hstore": "^2.3.4",
+    "prettier": "^2.8.0",
     "sequelize": "^6.25.8",
     "serverless-http": "^3.1.0",
     "uuid": "^9.0.0"
